@@ -1,0 +1,40 @@
+#header{
+    display: flex;
+    color: white;
+    border-bottom: 5px solid #ADFF00;
+    padding-bottom: 10px;
+    
+}
+#header-left{
+    display: flex;
+    width: 70%;
+}
+#header-left-logo{
+    margin-left: 50px;
+}
+#header-left-logo img{
+    width: 80px;
+    height: 60px;
+}
+#header-left-name p{
+    margin-left: 20px;
+    
+}
+#header-left-name-bold{
+    font-weight: bold;
+    line-height: 35px;
+    height: 35px;
+    
+}
+#header-right{
+    display: flex;
+    height: 60px;
+    line-height: 60px;
+}
+
+#header-right li{
+    margin: 0px 20px;
+}
+#header-right li a{
+    color: white;
+}
